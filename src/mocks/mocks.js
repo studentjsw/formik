@@ -1,0 +1,1 @@
+export const TeamsPlaying=["Chennai Super Kings","Gujarat Titans","Punjab Kings","Lucknow Super Giants","Rajasthan Royals","Royal Challengers Bangalore","Delhi Capitals"]
